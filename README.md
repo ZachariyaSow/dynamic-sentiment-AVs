@@ -19,7 +19,7 @@ Our study complements previous research on social media platform user sentiment 
 A project by [Zachariya Sow](https://github.com/ZachariyaSow), Paul Prindiville-Porto, Gabriel Abbas, and Artiom Bakhrakh.
 ### ✉️ Contact information
 - Academic: zachariya.sow@mail.mcgill.ca
-- Personal: zachariaysow@gmail.com
+- Personal: zachariyasow@gmail.com
 
 ## 📖 Previous literature
 - Achal Shankar Gupta, & Sharma, S. (2022). [Analysis of Public Perception of Autonomous Vehicles Based on Unlabelled Data from Twitter](https://doi.org/10.1007/978-981-19-5331-6_7)
