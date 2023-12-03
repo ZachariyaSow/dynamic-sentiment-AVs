@@ -15,7 +15,7 @@ Our study complements previous research on social media platform user sentiment 
 - Reddit [API](https://www.reddit.com/dev/api/)
 - [NewsCatcherAPI](https://www.newscatcherapi.com/) for news scraping to extract topic-specific media postings and releases for model training data.  
 
-## ✍🏽 Author
+## ✍🏽 Author(s)
 A project by [Zachariya Sow](https://github.com/ZachariyaSow), Paul Prindiville-Porto, Gabriel Abbas, and Artiom Bakhrakh.
 ### ✉️ Contact information
 - Academic: zachariya.sow@mail.mcgill.ca
