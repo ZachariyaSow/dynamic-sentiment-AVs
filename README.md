@@ -6,7 +6,7 @@ An end-user sentiment assessment tool to predict autonomous vehicles (AVs) adopt
 Our study complements previous research on social media platform user sentiment on AVs by (a) introducing a dynamic component by observing sentiment across time and critical news events, (b) correlating key user-discussed topics with shifts in user sentiment, and (c) predicting user sentiment based on news’ underlying topic assessment. We will leverage NewsCatcherAPI to extract filtered topic-specific news posts from the last 5 years to train a  model using topic scores for sentiment prediction.
 
 ## 🎓 Context
-Our research is part of a project in a [text mining](https://www.mcgill.ca/study/2023-2024/courses/insy-448), at McGill University.
+Our research is part of a project in a [text mining](https://www.mcgill.ca/study/2023-2024/courses/insy-448) class at McGill University.
 
 ## 💻 Technology and techniques
 - [Python](python.org)
